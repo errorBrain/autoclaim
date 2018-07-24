@@ -1,0 +1,3 @@
+https://dogefloodgate.000webhostapp.com/faucet.php?&address=DGF3MjVZQAPywUy2LdsXCEwtBdpPdETfuZ&currency=DOGE&key=9887a4e0e28681a5242dd8080c5c48a7|npazone|60
+https://xdogefaucet.000webhostapp.com/faucet.php?&address=DGF3MjVZQAPywUy2LdsXCEwtBdpPdETfuZ&currency=DOGE&r=DAjmFAyKVv9B6gUyDYfcaUBmbJLhwgtxCe&rc=DOGE|npazone|60
+http://coinhub.win/faucet.php?address=DGF3MjVZQAPywUy2LdsXCEwtBdpPdETfuZ&currency=DOGE&key=b3eccaed18ff86147a3873f5c59114c0|npazone|180
